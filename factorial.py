@@ -1,4 +1,5 @@
 # Calculate factorial using recursion
+# Factorial calculation
 def factorial(n):
     if n == 0:
         return 1
